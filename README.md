@@ -1,6 +1,6 @@
 <h2> Hi, I'm Luís Braga! <img src="https://media.giphy.com/media/3oKIPeQ5Uz4gU6ID5K/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/dyAFF3iGG9Lnu0M0ae/giphy.gif" width="230">
-<p><em>MSc Software Engineering Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a>
+<p><strike><em>MSc Software Engineering Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a></strike>
   </br><strike>Cloud Optimization Intern at <a href="https://un1qnx.com/">UN1Qnx, S.A. </a></strike>
 </br><strike>Software Engineer Trainee at <a href="https://www.olxgroup.com">OLX Group</a></strike>
 </br>Junior Software Engineer at <a href="https://www.olxgroup.com">OLX Group</a>
