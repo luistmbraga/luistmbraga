@@ -13,7 +13,7 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on my thesis and on the NY2Braga project
-- 🌱 I’m currently learning Vue and cloud technologies
+- 🌱 I’m currently learning Vue, React and cloud technologies
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:luistmbraga@gmail.com">
   Click to email me
