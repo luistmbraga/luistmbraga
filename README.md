@@ -3,7 +3,8 @@
 <p><strike><em>MSc Software Engineering Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a></strike>
   </br><strike>Cloud Optimization Intern at <a href="https://un1qnx.com/">UN1Qnx, S.A. </a></strike>
 </br><strike>Software Engineer Trainee at <a href="https://www.olxgroup.com">OLX Group</a></strike>
-</br>Junior Software Engineer at <a href="https://www.olxgroup.com">OLX Group</a>
+</br><strike>Junior Software Engineer at <a href="https://www.olxgroup.com">OLX Group</a></strike>
+</br>Mid Software Engineer at <a href="https://www.olxgroup.com">OLX Group</a>
 </em></p>
 
 [![Linkedin: Luís Braga](https://img.shields.io/badge/-luistmbraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-braga-24a21b1b3/)](https://www.linkedin.com/in/lu%C3%ADs-braga-24a21b1b3/)
